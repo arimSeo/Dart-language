@@ -4,7 +4,8 @@
 
 void main() {
   final String name = 'lion';
-  //name='tiger';로 변경 불가능!
   const String name2 = 'lion2';
+    //둘다 name='tiger';로 변경 불가능!
+
 }
 //const는 Datetime 사용 x
